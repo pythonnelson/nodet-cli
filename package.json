@@ -1,0 +1,44 @@
+{
+  "name": "nodet-cli",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nodet-cli": "./index.js"
+  },
+  "keywords": [
+    "Node.js",
+    "Next.js",
+    "TypeScript",
+    "CLI",
+    "Project Generator",
+    "Boilerplate",
+    "Starter Kit",
+    "Backend",
+    "Frontend",
+    "Full-stack",
+    "Developer Tools",
+    "Automation",
+    "Scaffolding",
+    "Codebase",
+    "Productivity"
+  ],
+  "author": "Isaac NSB. Kargbo",
+  "license": "MIT",
+  "description": "nodets is a powerful and user-friendly CLI tool designed to streamline the creation of Node.js and Next.js projects using TypeScript. With nodets, developers can kickstart their projects with ease, leveraging pre-configured templates, best practices, and optimized workflows for TypeScript development. Whether you're building a backend server or a modern frontend application, nodets simplifies the setup process so you can focus on writing code.",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^12.1.0",
+    "ora": "^8.1.1",
+    "simple-git": "^3.27.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pythonnelson/nodet-cli.git"
+  }
+}
