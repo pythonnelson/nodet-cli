@@ -1,6 +1,6 @@
 {
   "name": "nodet-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -40,5 +40,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pythonnelson/nodet-cli.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/pythonnelson/nodet-cli/issues"
+  },
+  "homepage": "https://github.com/pythonnelson/nodet-cli#readme"
 }
